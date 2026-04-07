@@ -36,8 +36,8 @@ If you find this repository useful, please cite our survey:
 
 ```bibtex
 @article{yourname2026survey,
-  title={A Survey on Fake Review Detection},
-  author={...}
+  title={A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models},
+  author={Yang, Fanji Chen, Huiyao Yu,Xi Zhang, Meishan Xiao, Xiaohong  and Deng, Mingsen}
 }
 ```
 
