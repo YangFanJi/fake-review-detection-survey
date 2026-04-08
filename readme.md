@@ -16,7 +16,6 @@ This repository accompanies our survey paper on **fake review detection**, provi
 * `papers/`: categorized paper list
 * `datasets/`: dataset summary
 * `figures/`: taxonomy and diagrams
-* `benchmark/`: performance comparison 
 
 ## 🔍 Taxonomy
 
