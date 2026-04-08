@@ -23,7 +23,7 @@ This repository accompanies our survey paper on **fake review detection**, provi
 
 ## 📚 Paper List
 
-See [papers/README.md](papers/README.md)
+See [papers/README.md](paper_list.md)
 
 ## 📊 Datasets
 
