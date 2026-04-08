@@ -22,8 +22,6 @@
 | 18 | Language Models are Few-Shot Learners | NeurIPS | 2020 | - |
 | 19 | GPT-4 Technical Report | arXiv | 2024 | 10.48550/arXiv.2303.08774 |
 | 20 | Implicit Semantic Enhanced Fine-Grained Fake News Detection Based on LLMs | Journal of Computer Research and Development | 2024 | 10.7544/issn1000-1239.202330967 |
-| ID | Title | Venue | Year | DOI |
-|----|------|------|------|------|
 | 21 | RADAR: Robust AI-Text Detection via Adversarial Learning | NeurIPS | 2023 | - |
 | 22 | Hidding the Ghostwriters: An Adversarial Evaluation of AI-Generated Student Essay Detection | EMNLP | 2023 | 10.18653/v1/2023.emnlp-main.644 |
 | 23 | Graph Learning for Fake Review Detection | Frontiers in Artificial Intelligence | 2022 | 10.3389/frai.2022.922589 |
@@ -54,8 +52,6 @@
 | 48 | Think Outside the Dataset: Finding Fraudulent Reviews | WWW | 2019 | 10.1145/3308558.3313647 |
 | 49 | Bimodal Distribution and Co-Bursting in Review Spam Detection | WWW | 2017 | 10.1145/3038912.305258 |
 | 50 | Masking Domain-Specific Information for Cross-Domain Deception Detection | Pattern Recognition Letters | 2020 | 10.1016/j.patrec.2020.04.020 |
-| ID | Title | Venue | Year | DOI |
-|----|------|------|------|------|
 | 51 | Analysis of Concept Drift in Fake Reviews Detection | Expert Systems with Applications | 2021 | 10.1016/j.eswa.2020.114318 |
 | 52 | Collective Opinion Spam Detection: Bridging Review Networks and Metadata | KDD | 2015 | 10.1145/2783258.2783370 |
 | 53 | A Framework for Fake Review Detection in Online Consumer Electronics Retailers | Information Processing & Management | 2019 | 10.1016/j.ipm.2019.03.002 |
@@ -156,8 +152,6 @@
 | 148 | Integrating Aspect Analysis and LOF for Review Spam Detection | FGCS | 2020 | 10.1016/j.future.2019.07.044 |
 | 149 | Learning to Represent Review with Tensor Decomposition | EMNLP | 2016 | None |
 | 150 | Deep Semantic Frame-Based Deceptive Opinion Spam Analysis | CIKM | 2015 | 10.1145/2806416.2806551 |
-| ID | Title | Venue | Year | DOI |
-|----|------|------|------|------|
 | 151 | Detection of Chinese Deceptive Reviews Based on Pre-Trained Language Model | Applied Sciences | 2022 | 10.3390/app12073338 |
 | 152 | Fake Review Detection on Digital Platforms Using the RoBERTa Model: A Deep Learning and NLP Approach | Journal Computer and Technology | 2025 | 10.69916/comtechno.v3i1.355 |
 | 153 | Pre-Training With Whole Word Masking for Chinese BERT | IEEE/ACM TASLP | 2021 | 10.1109/taslp.2021.3124365 |
