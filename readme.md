@@ -39,8 +39,15 @@ See [datasets/dataset_list.md](datasets/dataset_list.md)
 If you find this repository useful, please cite our survey:
 
 ```bibtex
-@article{yang2026survey,
-  title={A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models},
-  author={Yang, Fanji and Chen, Huiyao and Yu,Xi and Zhang, Meishan and Xiao, Xiaohong and Deng, Mingsen}
+@article{YANG2027104715,
+title = {A survey on fake review detection: From pre-trained language models to large language models},
+journal = {Information Fusion},
+volume = {138},
+pages = {104715},
+year = {2027},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2026.104715},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253526005919},
+author = {Fanji Yang and Huiyao Chen and Xi Yu and Meishan Zhang and Xiaohong Xiao and Mingsen Deng}
 }
 ```
