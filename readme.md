@@ -19,7 +19,7 @@ This repository accompanies our survey paper on **fake review detection**, provi
 
 ## Taxonomy
 
-![taxonomy](figures/taxonomy.png)
+![taxonomy](figures/taxonomy_01.png)
 
 ## Paper List
 
