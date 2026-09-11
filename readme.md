@@ -1,4 +1,8 @@
-# A Survey on Fake Review Detection
+# A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models
+
+🔥🔥🔥 **The article has been accepted by Information Fusion**.
+
+---
 
 ## Overview
 
@@ -6,10 +10,11 @@ This repository accompanies our survey paper on **fake review detection**, provi
 
 ## Key Contributions
 
-* Comprehensive survey of fake review detection techniques.
-* Evolution from traditional methods to PLM and LLM paradigms.
-* Analysis of adversarial and cross-domain challenges.
-* Future directions for robust and knowledge-enhanced detection.
+* Survey of fake review detection organized by evidence source and fusion level.
+* Analysis of text, behavior, graph, metadata, multimodal, and LLM-generated signals.
+* Taxonomy linking ML, DL, PLM, and LLM methods to fusion mechanisms.
+* Benchmark trend analysis with cautions about label and protocol differences.
+* Research agenda for uncertainty-aware, interpretable, and robust fusion.
 
 ## Repository Structure
 
