@@ -32,6 +32,11 @@ If you find this survey useful for your research, please consider citing our pap
         author = {Fanji Yang and Huiyao Chen and Xi Yu and Meishan Zhang and Xiaohong Xiao and Mingsen Deng}
     }
 
+## 📢 News
+
+- **2026/09/08** — 🎉 Initial release of the repository.
+- **2026/09/12** — Added the paper, taxonomy, benchmark datasets, evaluation considerations, and related research resources.
+
 ## 📒 Table of Contents
 - [Detection Paradigms](#Detection Paradigms)
     - [ML-based](#ML-based)
@@ -50,6 +55,11 @@ If you find this survey useful for your research, please consider citing our pap
 ## 🗂️ Taxonomy
 
 ![taxonomy](figures/taxonomy_01.png)
+The taxonomy adopted in this survey organizes fake review detection research from three complementary perspectives: **detection paradigms**, **information sources**, and **detection targets**.
+
+- **Detection Paradigms** categorize methods according to the underlying learning paradigm, including machine learning (ML), deep learning (DL), pre-trained language models (PLMs), and large language models (LLMs).
+- **Information Sources** characterize the types and combinations of information used for detection, including single-source, dual-source, and multi-source approaches.
+- **Detection Targets** distinguish the granularity of detection, including review-level, reviewer-level, and campaign-level detection.
 
 ## Overview
 
