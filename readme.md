@@ -4,7 +4,11 @@
 -
 This repository serves as the companion resource for the paper [“**A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models**”](https://www.sciencedirect.com/science/article/abs/pii/S1566253526005919). It aims to provide a structured and continuously updated collection of representative studies, publicly available datasets, and related methods in the field of fake review detection.
 
-![process](figures/The_process_of_detecting_fake_reviews.png)
+<p align="center">
+  <img src="figures/The_process_of_detecting_fake_reviews.png"
+       alt="The process of detecting fake reviews"
+       width="520">
+</p>
 
 Our survey systematically reviews the development of fake review detection, from traditional machine learning and deep learning to pre-trained language models (PLMs) and large language models (LLMs). Particular attention is devoted to the emerging challenges posed by LLM-generated fake reviews and their detection.
 
