@@ -28,6 +28,20 @@ If you find this survey useful for your research, please consider citing our pap
         author = {Fanji Yang and Huiyao Chen and Xi Yu and Meishan Zhang and Xiaohong Xiao and Mingsen Deng}
     }
 
+## 📒 Table of Contents
+- [Information Extraction tasks](#information-extraction-tasks)
+    - [Named Entity Recognition](#named-entity-recognition)
+    - [Relation Extraction ](#relation-extraction)
+    - [Event Extraction](#event-extraction)
+    - [Universal Information Extraction](#universal-information-extraction)
+- [Information Extraction Techniques](#information-extraction-techniques)
+    - [Supervised Fine-tuning](#supervised-fine-tuning)
+    - [Few-shot ](#few-shot)
+    - [Zero-shot](#zero-shot)
+    - [Data Augmentation](#data-augmentation)
+    - [Prompts Design](#prompts-design)
+    - [Constrained Decoding Generation](#constrained-decoding-generation)
+
 ## Overview
 
 This repository accompanies our survey paper on **fake review detection**, providing a structured summary of existing research, datasets, and methodologies.
