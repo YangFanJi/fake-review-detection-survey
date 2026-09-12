@@ -43,6 +43,10 @@ If you find this survey useful for your research, please consider citing our pap
     - [Reviewer-level](#Reviewer-level)
     - [Campaign-level](#Campaign-level)
 
+## 🗂️ Taxonomy
+
+![taxonomy](figures/taxonomy_01.png)
+
 ## Overview
 
 This repository accompanies our survey paper on **fake review detection**, providing a structured summary of existing research, datasets, and methodologies.
@@ -60,10 +64,6 @@ This repository accompanies our survey paper on **fake review detection**, provi
 * `papers/`: categorized paper list
 * `datasets/`: dataset summary
 * `figures/`: taxonomy and diagrams
-
-## Taxonomy
-
-![taxonomy](figures/taxonomy_01.png)
 
 ## Paper List
 
