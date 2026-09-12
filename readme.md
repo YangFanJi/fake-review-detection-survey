@@ -7,7 +7,7 @@ This repository serves as the companion resource for the paper [“**A Survey on
 <p align="center">
   <img src="figures/The_process_of_detecting_fake_reviews.png"
        alt="The process of detecting fake reviews"
-       width="520">
+       width="480">
 </p>
 
 Our survey systematically reviews the development of fake review detection, from traditional machine learning and deep learning to pre-trained language models (PLMs) and large language models (LLMs). Particular attention is devoted to the emerging challenges posed by LLM-generated fake reviews and their detection.
