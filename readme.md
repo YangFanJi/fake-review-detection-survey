@@ -15,19 +15,20 @@ Email: fnajiyang@mail.gufe.edu.cn
 We sincerely appreciate your feedback and contributions, which will help us continuously improve this repository and provide a more comprehensive and up-to-date resource for researchers working on fake review detection.
 
 If you find this survey useful for your research, please consider citing our paper:
-```bibtex
-@article{YANG2027104715,
-title = {A survey on fake review detection: From pre-trained language models to large language models},
-journal = {Information Fusion},
-volume = {138},
-pages = {104715},
-year = {2027},
-issn = {1566-2535},
-doi = {https://doi.org/10.1016/j.inffus.2026.104715},
-url = {https://www.sciencedirect.com/science/article/pii/S1566253526005919},
-author = {Fanji Yang and Huiyao Chen and Xi Yu and Meishan Zhang and Xiaohong Xiao and Mingsen Deng}
-}
-```
+
+    ```bibtex
+    @article{YANG2027104715,
+    title = {A survey on fake review detection: From pre-trained language models to large language models},
+    journal = {Information Fusion},
+    volume = {138},
+    pages = {104715},
+    year = {2027},
+    issn = {1566-2535},
+    doi = {https://doi.org/10.1016/j.inffus.2026.104715},
+    url = {https://www.sciencedirect.com/science/article/pii/S1566253526005919},
+    author = {Fanji Yang and Huiyao Chen and Xi Yu and Meishan Zhang and Xiaohong Xiao and Mingsen Deng}
+    }
+    ```
 
 ## Overview
 
