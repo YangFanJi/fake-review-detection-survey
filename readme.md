@@ -2,7 +2,7 @@
 
 🔥🔥🔥 **The article has been accepted by Information Fusion**.
 -
-This repository serves as the companion resource for the paper “**A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models**”. It aims to provide a structured and continuously updated collection of representative studies, publicly available datasets, and related methods in the field of fake review detection.
+This repository serves as the companion resource for the paper [“**A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models**”](https://www.sciencedirect.com/science/article/abs/pii/S1566253526005919). It aims to provide a structured and continuously updated collection of representative studies, publicly available datasets, and related methods in the field of fake review detection.
 
 ![process](figures/The_process_of_detecting_fake_reviews.png)
 
@@ -29,18 +29,19 @@ If you find this survey useful for your research, please consider citing our pap
     }
 
 ## 📒 Table of Contents
-- [Information Extraction tasks](#information-extraction-tasks)
-    - [Named Entity Recognition](#named-entity-recognition)
-    - [Relation Extraction ](#relation-extraction)
-    - [Event Extraction](#event-extraction)
-    - [Universal Information Extraction](#universal-information-extraction)
-- [Information Extraction Techniques](#information-extraction-techniques)
-    - [Supervised Fine-tuning](#supervised-fine-tuning)
-    - [Few-shot ](#few-shot)
-    - [Zero-shot](#zero-shot)
-    - [Data Augmentation](#data-augmentation)
-    - [Prompts Design](#prompts-design)
-    - [Constrained Decoding Generation](#constrained-decoding-generation)
+- [Detection Paradigms](#Detection Paradigms)
+    - [ML-based](#ML-based)
+    - [DL-based](#DL-based)
+    - [PLM-based](#PLM-based)
+    - [LLM-based](#LLM-based)
+- [Information Sources](#Information Sources)
+    - [Single-source](#Single-source)
+    - [Dual-source](#Dual-source)
+    - [Multi-source](#Multi-source)
+ - [Detection Targets](#Detection Targets)
+    - [Review-level](#Review-level)
+    - [Reviewer-level](#Reviewer-level)
+    - [Campaign-level](#Campaign-level)
 
 ## Overview
 
